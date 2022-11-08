@@ -1,4 +1,4 @@
-# C For Clowns
+# C Programming For Clowns
 
 C Course From SkillShare By Daniel McCarthy
 

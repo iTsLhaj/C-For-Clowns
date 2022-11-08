@@ -4,7 +4,7 @@
  * COMPILED: (Nov 4 2022 20:10:33)
  *
  * I WANNA SAY THANKS TO ME CAUSE THIS IS THE FIRST C CODE I'VE EVER WROTE WITHOUT 
- * GETTING FUCKED MY A MASSIVE AMOUT OF ERRORS
+ * GETTING FUCKED BY A MASSIVE AMOUNT OF ERRORS
  * 
  * la demonstration des structures en c language 
  * (yalah aghn arwass)

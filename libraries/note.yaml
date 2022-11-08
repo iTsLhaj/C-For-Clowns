@@ -1,0 +1,5 @@
+
+- DLL: Dynamic Linked Libraries
+- COMPILE: 
+           - gcc mylib.c -o mylib.dll -shared
+           - gcc main.c mylib.dll -o main
